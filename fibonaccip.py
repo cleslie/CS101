@@ -1,3 +1,4 @@
+#fib sequence
 def fibonacci(num):
     terms = [0,1]
     i = 2
@@ -9,3 +10,4 @@ def fibonacci(num):
 user_input=int(input("Enter a number to find the corresponding number in the fibanacci sequence: "))
 
 print(fibonacci(user_input))   
+
